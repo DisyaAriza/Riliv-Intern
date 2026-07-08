@@ -1,0 +1,19 @@
+﻿id;name;duration;type;tier;counselingType
+1;Psikolog Riliv;60;general;junior;plus
+23;Text 60 Junior;60;text;junior;plus
+24;Call 60 Junior;60;call;junior;plus
+25;Vidcall 60 Junior;60;video;junior;plus
+26;Text 90 Junior;90;text;junior;plus
+27;Call 90 Junior;90;call;junior;plus
+28;Vidcall 90 Junior;90;video;junior;plus
+29;Text 60 Senior;60;text;senior;plus
+30;Call 60 Senior;60;call;senior;plus
+31;Vidcall 60 Senior;60;video;senior;plus
+32;Text 90 Senior;90;text;senior;plus
+33;Call 90 Senior;90;call;senior;plus
+34;Vidcall 90 Senior;90;video;senior;plus
+35;Call Pasangan Junior;60;call;junior;couple
+36;Vidcall Pasangan Junior;60;video;junior;couple
+37;Call Pasangan Senior;60;call;senior;couple
+38;Vidcall Pasangan Senior;60;video;senior;couple
+456723;Konseling Instan;60;general;junior;instant

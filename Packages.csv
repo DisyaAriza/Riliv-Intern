@@ -1,0 +1,82 @@
+﻿id;name;packageType;totalSession;psychologType;clusterId;category
+23;Mindful 2 Bulan;meditasi;1;;1;basic
+115;Mindful 4 Bulan;meditasi;0;;;basic
+114;Mindful 1 Tahun;meditasi;0;;;basic
+104;Paket Meditasi 1 Bulan;meditasi;1;;1;basic
+103;Paket Meditasi 4 Bulan;meditasi;1;;1;basic
+123;Paket Konseling Instan;konseling;1;s1;456723;basic
+116;Mindful 2 Bulan;meditasi;0;;;basic
+100;Mindful 1 Tahun;meditasi;1;;1;basic
+42;Mindful 4 Bulan;meditasi;1;;38;basic
+99;Mindful 4 Bulan;meditasi;1;;39;basic
+98;Mindful 2 Bulan;meditasi;1;;1;basic
+171;Paket Perkenalan;call;1;s2;33;basic
+153;Paket 2x Konseling;call;2;s2;27;basic
+174;Paket 2x Konseling;call;2;s2;30;basic
+147;Paket Perkenalan;video;1;s2;25;basic
+168;Paket Perkenalan;call;1;s2;30;basic
+177;Paket 2x Konseling;call;2;s2;33;basic
+158;Paket 4x Konseling;call;4;s2;24;basic
+169;Paket Perkenalan;video;1;s2;31;basic
+165;Paket Konseling Pasangan;call;1;s2;35;basic
+183;Paket 4x Konseling;call;4;s2;33;basic
+152;Paket 2x Konseling;call;2;s2;24;basic
+178;Paket 2x Konseling;video;2;s2;34;basic
+172;Paket Perkenalan;video;1;s2;34;basic
+155;Paket 2x Konseling;video;2;s2;28;basic
+181;Paket 4x Konseling;video;4;s2;31;basic
+149;Paket Perkenalan;video;1;s2;28;basic
+160;Paket 4x Konseling;video;4;s2;25;basic
+161;Paket 4x Konseling;video;4;s2;28;basic
+146;Paket Perkenalan;call;1;s2;27;basic
+197;Paket Bundle 1x Sesi;video;1;s2;31;premium
+200;Paket Bundle 2x Sesi;video;2;s2;31;premium
+154;Paket 2x Konseling;video;2;s2;25;basic
+187;Paket Bundle 1x Sesi;call;1;s2;24;premium
+204;Paket Perkenalan Assessment;konseling;1;s2;29;basic
+188;Paket Bundle 1x Sesi;video;1;s2;25;premium
+191;Paket Bundle 2x Sesi;video;2;s2;25;premium
+194;Paket Bundle 4x Sesi;video;4;s2;25;premium
+166;Paket Konseling Pasangan;video;1;s2;36;basic
+199;Paket Bundle 2x Sesi;call;2;s2;30;premium
+145;Paket Perkenalan;call;1;s2;24;basic
+190;Paket Bundle 2x Sesi;call;2;s2;24;premium
+196;Paket Bundle 1x Sesi;call;1;s2;30;premium
+193;Paket Bundle 4x Sesi;call;4;s2;24;premium
+175;Paket 2x Konseling;video;2;s2;31;basic
+159;Paket 4x Konseling;call;4;s2;27;basic
+180;Paket 4x Konseling;call;4;s2;30;basic
+185;Paket Konseling Pasangan;call;1;s2;37;basic
+184;Paket 4x Konseling;video;4;s2;34;basic
+186;Paket Konseling Pasangan;video;1;s2;38;basic
+205;Paket Perkenalan Call Assessment;call;1;s2;30;basic
+206;Paket Perkenalan Call Assessment;call;4;s2;30;premium
+209;Paket Perkenalan Video Assessment;video;2;s2;31;premium
+208;Paket Perkenalan Call Assessment;call;2;s2;30;premium
+207;Paket Perkenalan Vidcall Assessment;video;4;s2;31;premium
+167;Paket Perkenalan;konseling;1;s2;29;basic
+202;Paket Bundle 4x Sesi;call;4;s2;30;premium
+12;Mindful 1 Tahun;meditasi;1;;38;basic
+450;Konseling Plus Upgrade Text ke Vidcall 60 Senior;video;1;s2;31;basic
+203;Paket Bundle 4x Sesi;video;4;s2;31;premium
+492;Upgrade Konseling Text ke Call 90 Senior;call;1;s2;33;basic
+97;Konseling Prod 4;konseling;2;s2;44;basic
+499;Upgrade Kons Call 60 Senior ke VidCall 60 Senior (4x Premium);video;4;s2;31;premium
+151;Paket 2x Konseling;konseling;2;s2;26;basic
+156;Paket 4x Konseling;konseling;4;s2;23;basic
+170;Paket Perkenalan;konseling;1;s2;32;basic
+173;Paket 2x Konseling;konseling;2;s2;29;basic
+182;Paket 4x Konseling;konseling;4;s2;32;basic
+157;Paket 4x Konseling;konseling;4;s2;26;basic
+179;Paket 4x Konseling;konseling;4;s2;29;basic
+144;Paket Perkenalan;konseling;1;s2;23;basic
+201;Paket Bundle 4x Sesi;konseling;4;s2;29;premium
+148;Paket Perkenalan;konseling;1;s2;26;basic
+176;Paket 2x Konseling;konseling;2;s2;32;basic
+198;Paket Bundle 2x Sesi;konseling;2;s2;29;premium
+162;Paket Bundle 1x Sesi;konseling;1;s2;23;premium
+189;Paket Bundle 2x Sesi;konseling;2;s2;23;premium
+192;Paket Bundle 4x Sesi;konseling;4;s2;23;premium
+195;Paket Bundle 1x Sesi;konseling;1;s2;29;premium
+150;Paket 2x Konseling;konseling;2;s2;23;basic
+503;Upgrade Konseling Text ke Call 60 Senior;call;1;s2;30;basic
